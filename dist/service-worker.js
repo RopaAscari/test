@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a25e13850de7e791e84639882342866a.js"
+  "/precache-manifest.260c29378ea754445c22616d7d655ac7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ropa"});
